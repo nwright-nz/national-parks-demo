@@ -1,6 +1,6 @@
 pkg_name=national-parks
 pkg_description="A sample JavaEE Web app deployed in the Tomcat8 package"
-pkg_origin=nwright-nz
+pkg_origin=nigelwright
 pkg_version=8.0.0
 pkg_maintainer="Nigel Wright"
 pkg_license=('Apache-2.0')
